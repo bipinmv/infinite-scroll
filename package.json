@@ -1,0 +1,15 @@
+{
+  "name": "infinite-scroll",
+  "version": "1.0.0",
+  "description": "Infinite scroll using pure HTML + JS",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "keywords": ["html", "css"],
+  "author": "Bipin M V",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "11.2.0"
+  }
+}

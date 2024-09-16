@@ -1,0 +1,21 @@
+body {
+  display: grid;
+  place-content: center;
+}
+
+.container {
+  height: 60vh;
+  width: 100%;
+  padding: 1rem;
+  overflow-y: scroll;
+}
+
+.loading-container {
+  margin-top: 10px;
+  font-size: 1.25rem;
+  text-align: center;
+}
+
+.search-data {
+  padding: 10px 0;
+}
